@@ -1,0 +1,107 @@
+html{
+    height: 100%;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    font-size: 70px;
+}
+body{
+    height: 100%;
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #ffffff;
+    margin: auto;
+    
+}
+a:link{
+    color: #2db612;;
+}
+a:visited{
+    color: #2db612;
+}
+a:hover{
+    color: #ffffff;
+    text-decoration: double;
+    padding: 5px;
+    background-color: #002776;
+}
+#img-area-logo{
+    float: left;
+    padding: 0%;
+}
+#area-cabecalho{
+    background-color: #000000;
+    text-align: center;
+    padding: 15px;
+}
+#area-logo{
+    padding: 10px;
+}
+
+#area-postagem-principal{
+    width: 100%;
+    float: center;
+}
+.postagem{
+    padding-left: 50px;
+    background: #ffffff;
+    text-align: justify;
+    max-width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+#area-rodape{
+    background-color: #000000;
+    text-align: center;
+    padding: 10px;
+    color: #f2f2f2;
+    font-size: 20px;
+    float: center;
+    clear: both;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 300px;
+    padding-top: 40px;
+    font-size: xx-large;
+}
+h3{
+    color: #000000;
+    padding: 5px;
+    max-width: 97%;
+}
+h4{
+    background: #8fb73b;
+}
+p{
+    max-width: 90%;
+    font-size: large;
+    padding-left: 30px;
+}
+#img-anarquia-brasil{
+    padding-left: 700px;
+}
+#p-anarquia{
+    padding-bottom: 20px;
+}
+#img-anarquia{
+    float: left;
+    padding-left: 350px;
+    padding-top: 40px;
+}
+#img-anarco{
+    float: right;
+    padding-right: 30px;
+    padding-top: 20px;
+}
+td{
+    padding-left: 50px;
+    padding-right: 50px;
+    float: center;
+    clear: both;
+}
+
